@@ -1,0 +1,12 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.1",
+  "description": "a react project boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {}
+}
